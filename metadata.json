@@ -1,0 +1,7 @@
+{
+  "name": "Ocean Haven Resort & Spa",
+  "description": "Award-winning luxury oceanfront resort and spa in Key West, Florida featuring world-class accommodations, fine dining, curated island experiences, and direct booking engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
